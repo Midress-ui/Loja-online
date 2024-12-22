@@ -36,10 +36,4 @@ Criar uma interface moderna, responsiva e funcional que simule uma loja virtual.
 
 Este projeto foi uma oportunidade para praticar e consolidar conhecimentos em desenvolvimento frontend. Embora seja uma aplicação estática, ela pode ser expandida no futuro com backend e banco de dados para se tornar uma loja virtual totalmente funcional.
 
-## Deploy
-
-Se hospedado, o link para visualização ao vivo pode ser incluído aqui.
-
----
-
-Sinta-se à vontade para explorar o código e enviar feedback! Este é um exemplo claro do meu potencial como desenvolvedor(a) frontend, focado(a) em criar soluções estéticas e práticas.
+Para explorar o código e enviar feedback! Este é um exemplo claro do meu potencial como desenvolvedor(a) frontend, focado(a) em criar soluções estéticas e práticas.
